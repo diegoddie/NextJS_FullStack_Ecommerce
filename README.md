@@ -1,7 +1,7 @@
 # 🛍️ Full Stack E-Commerce Website using Next.js, Tailwind CSS, Stripe
 
 Welcome to my awesome Full Stack E-Commerce project built using Next.js, Tailwind CSS, Stripe, and the use-shopping-cart APIs! This project allows users to browse through a variety of products, add items to their cart, and seamlessly proceed to payment using the power of Stripe. 🎉
-I deployed the project on Vercel -> 
+I deployed the project on Vercel -> https://epic-store-one.vercel.app/
 
 ![Screenshot](screen.png)
 ![Screenshot](screen1.png)
